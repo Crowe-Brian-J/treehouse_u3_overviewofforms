@@ -94,6 +94,13 @@ label.light {
   display: inline;
 }
 
+label.inline-label {
+  display: inline;
+  margin: 0 10px 8px 0;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
 .number {
   background-color: #5fcf80;
   color: #fff;
